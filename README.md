@@ -1,4 +1,4 @@
-ESP-OTA-Server
+ESP-OTA-Broker
 ==============
 
 Very simple OTA firmware server suitable for built-in [ESP8266 HTTP Updater][1] and [ESP32 HTTP Updater][2].
@@ -19,4 +19,4 @@ TODO:
 - Working md5-version check for SPIFFS images
 
 [1]: https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266httpUpdate
-[2]: https://github.com/suculent/esp32-http-update
+[2]: https://github.com/espressif/arduino-esp32/tree/master/libraries/HTTPUpdate
